@@ -1,0 +1,11 @@
+{
+  "name": "ThxBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ArbawiStudio/ThxBot.git",
+  "author": "TOBZi <81484769+ArbawiStudio@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
